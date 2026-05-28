@@ -2,7 +2,9 @@ package com.gabriel.library.entities;
 
 public enum Categories {
     ROMANCE,
+    DRAMA,
     TERROR,
-    FANTASY,
-    COMIC
+    SUSPENSE,
+    FANTASIA,
+    COMEDIA
 }
